@@ -13,7 +13,7 @@ Click the deploy icon below !
  > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
-## COMMAND TERMUX
+## TERMUX USER
 ```bash
 $ pkg update && pkg upgrade
 $ pkg install mc

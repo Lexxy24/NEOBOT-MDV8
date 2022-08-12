@@ -7,4 +7,5 @@ $ pkg install git
 $ pkg install yarn
 $ pkg install nodejs
 $ pkg install libwebp
-$ pkg install ffmpeg```
+$ pkg install ffmpeg
+```

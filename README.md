@@ -32,9 +32,9 @@ $ npm start
 
 ## RDP/VPS USER
 ```bash 
-> git clone https://github.com/Lexxy24/NEOBOTV4.git
-> cd NEOBOTV4
-> npm install
-> rm -r session.json
-> npm start
+$ git clone https://github.com/Lexxy24/NEOBOT-MDV8
+$ cd NEOBOT-MDV8
+$ yarn install
+$ rm -r session.json
+$ npm start
 ```

@@ -26,5 +26,6 @@ $ termux-setup-storage
 $ git clone https://github.com/Lexxy24/NEOBOT-MDV8
 $ cd NEOBOT-MDV8
 $ yarn install
+rm -r session.json
 $ npm start
 ```

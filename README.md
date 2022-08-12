@@ -1,7 +1,7 @@
 # NEOBOT-MDV8
 
 ```ALL FITUR```
-```• id
+ • id
  • sc
  • simi
  • limit
@@ -15,4 +15,4 @@
  • buylimit
  • cekuser
  • runtime
- • dashboard```
+ • dashboard

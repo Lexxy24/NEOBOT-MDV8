@@ -1,6 +1,6 @@
 # NEOBOT-MDV8
 ```
-```COMMAND TERMUX```
+#COMMAND TERMUX
 $ pkg update && pkg upgrade
 $ pkg install mc
 $ pkg install git

@@ -1,6 +1,7 @@
 # NEOBOT-MDV8
 
 ```ALL FITUR```
+MAIN MENU
 ```• id
  • sc
  • simi

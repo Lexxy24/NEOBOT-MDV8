@@ -1,6 +1,7 @@
 # NEOBOT-MDV8
 
 ```ALL FITUR```
+base ```
  • id
  • sc
  • simi
@@ -16,3 +17,4 @@
  • cekuser
  • runtime
  • dashboard
+```

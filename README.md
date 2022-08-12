@@ -14,7 +14,7 @@ Click the deploy icon below !
 ```
 
 ## COMMAND TERMUX
-```
+```bash
 $ pkg update && pkg upgrade
 $ pkg install mc
 $ pkg install git
@@ -26,6 +26,6 @@ $ termux-setup-storage
 $ git clone https://github.com/Lexxy24/NEOBOT-MDV8
 $ cd NEOBOT-MDV8
 $ yarn install
-rm -r session.json
+$ rm -r session.json
 $ npm start
 ```

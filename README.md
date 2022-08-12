@@ -8,6 +8,7 @@ $ pkg install yarn
 $ pkg install nodejs
 $ pkg install libwebp
 $ pkg install ffmpeg
+$ termux-setup-storage
 $ git clone https://github.com/Lexxy24/NEOBOT-MDV8
 $ cd NEOBOT-MDV8
 $ yarn install

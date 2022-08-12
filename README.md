@@ -1,8 +1,7 @@
 # NEOBOT-MDV8
 
 ```ALL FITUR```
-base ```
- • id
+```• id
  • sc
  • simi
  • limit

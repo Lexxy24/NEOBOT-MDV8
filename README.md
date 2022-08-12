@@ -50,3 +50,10 @@ $ yarn install
 $ rm -r session.json
 $ npm start
 ```
+
+# My Sosial
+- [Whatsapp](https://wa.me/6283834558105)
+
+- [YouTube](https://youtube.com/channel/UCLd-bhT8Dqq9PjGc6bWUVyg)
+- [Group](https://chat.whatsapp.com/E3zewfxrc5pKE6Rzb3BuqG)
+- [Nomor Bot](https://wa.me/6283834558105)

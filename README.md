@@ -29,3 +29,12 @@ $ yarn install
 $ rm -r session.json
 $ npm start
 ```
+
+## RDP/VPS USER
+```bash 
+> git clone https://github.com/Lexxy24/NEOBOTV4.git
+> cd NEOBOTV4
+> npm install
+> rm -r session.json
+> npm start
+```
